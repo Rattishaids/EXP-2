@@ -1,9 +1,9 @@
 # EXP-2
 EXPT NO: 2 OCC AND LOAD CHARACTERISTICS OF D.C SHUNT GENERATOR
 
-Name: A Ahil Santo
+Name: RATTISH KUMAR SS
 
-Reg No: 212224040018
+Reg No: 212224230223
 
 ## Aim:
 To conduct load test on separately excited generators and to obtain the characteristics
